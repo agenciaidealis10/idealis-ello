@@ -25,3 +25,8 @@ Após o primeiro deploy, vale trocar `og:image` e `twitter:image` no `index.html
 para a URL absoluta final, por exemplo:
 `https://SEU-PROJETO.vercel.app/og-image.jpg`
 Isso maximiza a compatibilidade da prévia no WhatsApp e redes sociais.
+
+
+## Atualização V2
+- Links do rodapé para Instagram e WhatsApp da Agência Idealis.
+- Página `/politica-de-privacidade.html` adicionada.
